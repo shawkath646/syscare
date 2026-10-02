@@ -1,0 +1,23 @@
+{
+    "clean_user_temp": true,
+    "clean_system_temp": true,
+    "clean_crash_dumps": true,
+    "clean_recent_docs": true,
+    "clean_explorer_history": true,
+    "clean_browser_caches": true,
+    "clean_dev_caches": true,
+    "clean_app_leftovers": true,
+    "clean_recycle_bin": true,
+    "flush_dns": true,
+    "registry_clean_uninstall_leftovers": true,
+    "registry_clean_broken_startup": true,
+    "registry_clean_missing_app_paths": true,
+    "registry_clean_stale_openwith": true,
+    "registry_clean_mui_cache": true,
+    "update_apps_winget": true,
+    "confirm_before_clean": true,
+    "exclusions": {
+        "directories": [],
+        "registry_keys": []
+    }
+}
