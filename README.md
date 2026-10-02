@@ -11,6 +11,7 @@
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-clouburstlab-2563EB?style=flat-square)](https://clouburstlab.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](#-license)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Release](https://img.shields.io/github/v/release/shawkath646/syscare?style=flat-square)](https://github.com/shawkath646/syscare/releases)
 [![Packaging](https://img.shields.io/badge/Packaging-Standalone%20Portable%20Exe-orange?style=flat-square)](#-how-to-run)
 
 </div>
@@ -146,11 +147,11 @@ cd syscare
 ```
 
 #### Option A: Run Standalone Executable (No Python Required)
-You can directly run the pre-compiled portable binary:
+Download **[`SysCare.exe`](https://github.com/shawkath646/syscare/releases/download/v1.0.0/SysCare.exe)** directly from the [Latest Release](https://github.com/shawkath646/syscare/releases/latest) or run the local binary:
 ```powershell
 .\SysCare.exe
 ```
-This is a self-contained, single-file executable that can be stored on a USB drive or run anywhere on your system.
+This is a 100% self-contained, single-file executable (~8.7 MB) that requires **no Python installation** and can be run from any folder or carried on a USB drive.
 
 #### Option B: Run via Batch Launcher (Auto-Elevating)
 Double-click `syscare.bat` or run:
